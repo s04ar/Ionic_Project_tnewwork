@@ -1,4 +1,4 @@
-# Main_Page_tnewwork
+# Main_Page_tnewwork <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
  
 1. X เป็นนักเรียนที่ต้องการรู้ข่าวเกี่ยวกับ TCAS จึงต้องการแหล่งข่าว TCAS เพื่อรู้ว่าจะต้องเตรียมตัวสอบอย่างไร
 2. X เป็นนักเรียนที่ต้องการคุยกับครูแนะแนว เพื่อปรึกษาเกี่ยวกับเรื่องต่างๆ เช่น การเรียน หรือ เรื่องส่วนตัว
