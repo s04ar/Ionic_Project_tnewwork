@@ -13,3 +13,5 @@
 
 
 SCRUM BOARD: https://trello.com/invite/b/XXjajaB9/520596df14505210589c92b59705d30c/scrumboard
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KERPAZ)](https://github.com/iamdiluxedbutcooler/Ionic_Project_tnewwork/github-readme-stats)
